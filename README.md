@@ -1,4 +1,6 @@
-### Hi there 👋
+# :game_die: Kodellektor
+
+**`Problem Solver (Programmer/Student/Gamer)`**
 
 <!--
 **Kodellektor/Kodellektor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
