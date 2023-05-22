@@ -27,4 +27,4 @@ I am currently working on my Bachelor's of Science in Machine Learning from the 
 #
 
 ## :bar_chart: My Stats
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodellektor&show_icons=true&theme=synthwave)](https://github.com/kodellektor/github-readme)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodellektor&layout=compact&theme=transparent)](https://github.com/kodellektor/github-readme)
