@@ -2,7 +2,7 @@
 
 **`Problem Solver (Programmer/Student/Gamer)`**
 
-I am currently working on my Bachelor's of Science in Machine Learning from the University of California, San Diego (UCSD).
+Currently employed as a Service Desk Unit Programmer at The Geisel Library at UCSD. Self-teaching software engineering skills and database/API development. Working on a Discord bot for my Dungeons & Dragons 5e group. Interested in video games as a consumer and developer. Feel free to reach out with any opportunities or inquiries. 
 
 ---
 ## 🛠️ Technical Skills
