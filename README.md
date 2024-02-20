@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Arturo Torres Jimenez</h1>
+<center><h1> Arturo Torres Jimenez </h1></center>
 
 ## Currently
 
