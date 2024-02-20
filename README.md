@@ -1,4 +1,4 @@
-# Arturo Torres Jimenez
+# <p style="text-align: center;">Arturo Torres Jimenez</p>
 
 **`Currently`**
 
