@@ -1,8 +1,8 @@
-# :computer: Kodellektor
+# Arturo Torres Jimenez
 
-**`Problem Solver (Programmer/Student)`**
+**`Currently`**
 
-Currently employed as a Service Desk Unit Programmer at The Geisel Library at UCSD. Self-teaching software engineering skills and database/API development. Working on a Discord bot for my Dungeons & Dragons 5e group. Feel free to reach out with any opportunities or inquiries. 
+I'm working as a Service Desk Unit Programmer at The Geisel Library at UCSD. Self-teaching software engineering skills and database/API development. Working on a Discord bot for my Dungeons & Dragons 5e group. Feel free to reach out with any opportunities or inquiries. 
 
 ---
 ## 🛠️ Technical Skills
@@ -10,7 +10,6 @@ Currently employed as a Service Desk Unit Programmer at The Geisel Library at UC
 ### :space_invader: Languages
 <img align ="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align ="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align ="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align ="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <br />
 
