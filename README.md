@@ -1,6 +1,6 @@
-# <p style="text-align: center;">Arturo Torres Jimenez</p>
+<h1 style="text-align: center;">Arturo Torres Jimenez</h1>
 
-**`Currently`**
+## Currently
 
 I'm working as a Service Desk Unit Programmer at The Geisel Library at UCSD. Self-teaching software engineering skills and database/API development. Working on a Discord bot for my Dungeons & Dragons 5e group. Feel free to reach out with any opportunities or inquiries. 
 
