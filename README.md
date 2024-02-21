@@ -11,6 +11,7 @@ I'm working on a Discord bot for my Dungeons & Dragons 5e group & playing with F
 ---
 ## :globe_with_meridians: Let's Connect
 Feel free to reach out with any opportunities or inquiries. 
+
 ---
 ## 🛠️ Technical Skills
 
