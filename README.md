@@ -1,12 +1,12 @@
 # :wave: Hi! I am Arturo Torres Jimenez 
 
 ## :computer: Currently
-I'm working as a Service Desk Unit Programmer at The Geisel Library at UCSD. Self-teaching database & API development. 
+I'm self-teaching database & API development. 
 
 #
 
 ## :game_die: For Fun 
-I'm working on a Discord bot for my Dungeons & Dragons 5e group & playing with FPGA boards!
+Looking for a new project & playing with FPGA boards!
 
 ---
 ## :globe_with_meridians: Let's Connect
