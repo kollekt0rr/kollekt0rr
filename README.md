@@ -1,4 +1,4 @@
-# :wave: Hi! I am Arturo Torres Jimenez 
+# :wave: Hi! I am Arturo
 
 ## :computer: Currently
 I'm self-teaching database & API development. 
