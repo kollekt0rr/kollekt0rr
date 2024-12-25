@@ -33,4 +33,4 @@ Feel free to reach out with any opportunities or inquiries.
 
 ---
 ## :bar_chart: My Stats
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodellektor&layout=compact&theme=transparent)](https://github.com/kodellektor/github-readme)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodellekt0rr&layout=compact&theme=transparent)](https://github.com/kodellekt0rr/github-readme)
